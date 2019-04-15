@@ -1,0 +1,204 @@
+/** Estilo 1: Para 2 columnas **/
+* {
+    margin: 5px;
+    padding: 5px;
+}
+
+
+body{ 
+    color: white;
+    background-color: #9c640c; 
+}
+
+img{
+    border-radius: 8px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img1{
+    max-width: 100%;
+    height: 100%;
+}
+
+h1{
+    color: black;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2, h3{
+    color: black;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#segundoTitulo{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tercerTitulo{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h4{
+    color: black;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+    background-color: #f8c471;
+    color: white;
+}
+
+nav{
+    background-color: #d68910;
+    font-style: italic;
+    color: gray;
+    width: 40%;
+    height: 100%;
+    border-radius: 12px;
+}
+
+#tblTitulo{
+    border: #7e5109 4px solid;
+    border-collapse: collapse;
+    align-content: center;
+    width: 100%;  
+}
+
+#tbl1{
+    border: yellow 4px solid;
+    border-collapse: collapse;
+    align-content: center;
+    width: 100%;
+}
+
+#columna1{
+    border: #fef5e7 5px solid;
+    align-content: flex-start;
+    width: 50%;
+    height: 100%;
+}
+
+#columna2{
+    border: #fef5e7 5px solid;
+    align-content: space-around;
+    width: 100%;
+    height: auto;
+}
+
+#tblFooter{
+    border: grey 4px solid;
+    border-collapse: collapse;
+    align-content: center;
+    width: 100%;    
+}
+
+a{
+    color: black;
+    font-style: normal;
+    padding: 5px;
+}
+
+a:hover{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+}
+
+article{
+    animation: alternate;
+    align-content: stretch;
+}
+
+td{
+    color: #f8c471;
+}
+
+#TituloGeneral{
+    background-color: #7e5109;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: auto;  
+}
+
+#TituloFooter{
+    background-color: #7e5109;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    height: auto;     
+}
+
+#columna2_1{
+    border: #f8c471 5px solid;
+    background-color: #f8c471;
+    width: 50%;
+    height: auto;
+}
+
+#columna2_2{
+    background-color: #f8c471;
+    border:#f8c471 5px solid;
+    color: white;
+    width: 100%;
+    height: auto;
+}
+
+#columna3_1{
+    border: #f8c471 5px solid;
+    background-color: #f8c471;
+    width: 50%;
+    height: auto;
+}
+
+#columna3_2{
+    background-color: #f8c471;
+    border:#f8c471 5px solid;
+    color: white;
+    width: 100%;
+    height: auto;
+}
+
+#section1{
+    background-color: #f8c471;
+    border: #f8c471 5px solid;
+}
+
+#section2{
+    background-color: #7e5109;
+    border: #7e5109 5px solid;
+}
+
+#columnaTitulo1{
+    background-color: #7e5109;
+    border: #7e5109 5px solid;
+    width: 50%;
+    height: auto;   
+}
+
+#columnaTitulo2{
+    background-color: #7e5109;
+    border: #7e5109 5px solid;
+    width: 100%;
+    height: auto;   
+}
+
+#columnaFooter1{
+    background-color: #7e5109;
+    border: #7e5109 5px solid;
+    width: 50%;
+    height: auto;   
+}
+
+#columnaFooter2{
+    background-color: #7e5109;
+    border: #7e5109 5px solid;
+    width: 100%;
+    height: auto;   
+}

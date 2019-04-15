@@ -1,0 +1,28 @@
+table tr td{
+    color: blue;
+    align-content: center;
+    padding: 5px;
+}
+
+#columna1{
+    width: 30%;
+}
+
+#columna2{
+    width: 40%;
+}
+
+#columna3{
+    width: 30%;
+    padding: 20px;
+}
+
+footer{
+    align-items: flex-end;
+    color: black;
+    padding: 50px;
+}
+
+p{
+    align-content: center;
+}
