@@ -1,0 +1,39 @@
+*{
+    padding: 5%;
+    margin: 20px;
+}
+
+a{
+    align-content: flex-start;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+h1, h2, h3, h4, h5, h5{
+    align-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li{
+    list-style-type: georgian;
+}
+
+div{
+    background-color: black;
+}
+
+table{
+    border: #7e5109 4px solid;
+    border-collapse: collapse;
+    align-content: center;
+    width: 100%; 
+}
+
+img{
+    border-radius: 8px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
